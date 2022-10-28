@@ -2,7 +2,7 @@
 
 Intro
 ----------------------------------------------
-Designed this corporate web template using tools like React and MUI.
+Designed this corporate web template using tools such as React and MUI.
 
 
 Get Started
